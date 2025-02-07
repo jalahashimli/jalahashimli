@@ -4,9 +4,9 @@
 </p>
 
 ### 📚 Currently Learning:
-- 🌱 **HTML/CSS** - Front-end developmen  
+- 🌱 **HTML/CSS** - Front-end development  
 - 🔍 **Manual Testing** - UI & API testing
-- 
+  
 
 ### 🚀 Skills & Technologies:
 <p align="left">
