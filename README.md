@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Jala! 👋</h1>
 <p align="center">
-   Software Tester | Front-end Developer | Node.js Enthusiast
+   QA Engineer | Front-end Developer | Node.js Enthusiast
 </p>
 
 ### 📚 Currently Learning:
